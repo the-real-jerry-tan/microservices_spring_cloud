@@ -1,6 +1,6 @@
 
 /*
- * Copyright (c) 2024 YourName. All rights reserved.
+ * Copyright (c) 2024 Jerry Tan. All rights reserved.
  * 
  * This is a microservices architecture application demonstrating the use of Spring Boot and Spring Cloud.
  * The application uses Netflix Eureka for service discovery, Zuul for API Gateway, and Ribbon for client-side load balancing.
